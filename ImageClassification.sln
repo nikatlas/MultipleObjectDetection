@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageClassification", "ImageClassification\ImageClassification.vcxproj", "{E312BA76-49B8-4EE1-89CE-55A425AFED63}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageCreation", "ImageCreation\ImageCreation.vcxproj", "{8714C703-77F2-45C1-A9E9-36B506DA215B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageFinder", "ImageFinder\ImageFinder.vcxproj", "{A21038CB-56A1-4E70-B1C5-8F33C5C094C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageFinderFolder", "ImageFinderFolder\ImageFinderFolder.vcxproj", "{F543C76C-2D72-4F0A-BDE4-11CB47385042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E312BA76-49B8-4EE1-89CE-55A425AFED63}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E312BA76-49B8-4EE1-89CE-55A425AFED63}.Debug|Win32.Build.0 = Debug|Win32
+		{E312BA76-49B8-4EE1-89CE-55A425AFED63}.Release|Win32.ActiveCfg = Release|Win32
+		{E312BA76-49B8-4EE1-89CE-55A425AFED63}.Release|Win32.Build.0 = Release|Win32
+		{8714C703-77F2-45C1-A9E9-36B506DA215B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8714C703-77F2-45C1-A9E9-36B506DA215B}.Debug|Win32.Build.0 = Debug|Win32
+		{8714C703-77F2-45C1-A9E9-36B506DA215B}.Release|Win32.ActiveCfg = Release|Win32
+		{8714C703-77F2-45C1-A9E9-36B506DA215B}.Release|Win32.Build.0 = Release|Win32
+		{A21038CB-56A1-4E70-B1C5-8F33C5C094C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A21038CB-56A1-4E70-B1C5-8F33C5C094C7}.Debug|Win32.Build.0 = Debug|Win32
+		{A21038CB-56A1-4E70-B1C5-8F33C5C094C7}.Release|Win32.ActiveCfg = Release|Win32
+		{A21038CB-56A1-4E70-B1C5-8F33C5C094C7}.Release|Win32.Build.0 = Release|Win32
+		{F543C76C-2D72-4F0A-BDE4-11CB47385042}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F543C76C-2D72-4F0A-BDE4-11CB47385042}.Debug|Win32.Build.0 = Debug|Win32
+		{F543C76C-2D72-4F0A-BDE4-11CB47385042}.Release|Win32.ActiveCfg = Release|Win32
+		{F543C76C-2D72-4F0A-BDE4-11CB47385042}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
